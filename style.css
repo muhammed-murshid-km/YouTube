@@ -1,0 +1,197 @@
+body {
+    overflow-x: hidden;
+}
+
+.kpp :hover {
+    transform: scale(1.10);
+    transition: 1s;
+}
+
+.head7 {
+    background-color: #202020;
+    height: 50px;
+    width: 100%;
+    position: relative;
+    top: 80px;
+    left: 200px;
+    position: fixed;
+    z-index: 1;
+}
+
+.head7 a {
+    position: relative;
+    top: 10px;
+    left: -250px;
+}
+
+
+@media screen and (max-width:458px) {
+    .head4 {
+        display: none;
+    }
+
+    .head1 input {
+        display: none;
+    }
+
+    .ghh0 {
+        position: relative;
+        top: 10PX;
+    }
+
+    .ghh {
+        position: relative;
+        left: -270px;
+        top: 06PX;
+    }
+
+    .ghh1 {
+        margin-top: 10px;
+    }
+
+    .head1 i {
+        position: relative;
+        top: -25px;
+        left: -150px;
+    }
+
+    .ghh2 {
+        position: relative;
+        left: -170px;
+        margin-top: -45px;
+    }
+
+    .ghh3 {
+        position: relative;
+        top: -50px;
+        left: 10px;
+    }
+
+
+    .ghh5 {
+        margin-top: -130px;
+        margin-left: 360px;
+
+    }
+
+    .head7 {
+        position: fixed;
+        width: 100%;
+        overflow-x: auto;
+        white-space: nowrap;
+        margin-left: -200px;
+    }
+
+    .uee {
+        position: fixed;
+        z-index: 1;
+        width: 100%;
+    }
+
+    section {
+        margin-left: -105px;
+    }
+
+    .yrr {
+        width: 435px;
+    }
+}
+
+@media screen and (max-width:768px) and (min-width:458px) {
+    .head4 {
+        display: none;
+    }
+
+    .head1 input {
+        display: none;
+    }
+
+    .head7 {
+        position: fixed;
+        width: 100%;
+        overflow-x: auto;
+        white-space: nowrap;
+        margin-left: -200px;
+    }
+
+    .ghh0 {
+        position: relative;
+        top: 18PX;
+    }
+
+    .ghh {
+        position: relative;
+        left: -60px;
+        top: 15px;
+    }
+
+    .ghh1 {
+        margin-top: 5px;
+    }
+
+    .head1 i {
+        position: relative;
+        left: -115px;
+        top: 17px;
+    }
+
+    .ghh2 {
+        position: relative;
+        left: -145px;
+        top: 17px;
+    }
+
+    .ghh3 {
+        position: relative;
+        top: -25px;
+        left: 320px;
+    }
+
+    .ghh5 {
+        margin-top: -50px;
+
+    }
+
+    section {
+        margin-left: -105px;
+    }
+
+
+}
+
+@media screen and (max-width:992px) and (min-width:768px) {
+    .ghh {
+        position: relative;
+        left: 30px;
+        top: 15px;
+    }
+
+    .ghh1 {
+        margin-top: 5px;
+    }
+
+    .head1 i {
+        position: relative;
+        left: 140px;
+        top: 15px;
+    }
+
+    .ghh2 {
+        position: relative;
+        left: 205px;
+        top: 15px;
+    }
+
+    .ghh3 {
+        position: relative;
+        top: 15px;
+        left: -20px;
+    }
+
+    .ghh5 {
+        margin-top: 30px;
+
+    }
+
+
+}
